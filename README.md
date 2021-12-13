@@ -18,7 +18,7 @@ Python 3.7.X
 Use the install instructions from the [dat4 python setup guide](https://github.com/Hartmannsolution/docker_notebooks/blob/master/notebooks/01-0%20Getting%20Started%20with%20installations%20etc.ipynb).
 
 ### Usage
-Run the notebooks in order.
+Run the notebook (`Exam-Hltv.org2.ipynb`) in order.
 
 
 ## Status & Reflections
